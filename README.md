@@ -1,10 +1,27 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# :dart: Projeto Solar-System
+Projeto desenvolvido no bloco 10 de Front-end do curso de Desenvolvimento Web da Trybe.
+
+
+## :pushpin: Habilidades
+
+* Utilizar JSX no React
+* Utilizar corretamente o método render() para renderizar seus componentes
+* Utilizar import para trazer componentes em diferentes arquivos
+* Criar componentes de classe em React
+* Criar múltiplos componentes a partir de um array
+* Fazer uso de props corretamente
+* Fazer uso de PropTypes para validar as props de um componente
+
+
+## :pushpin: O que foi desenvolvido
+
+Neste projeto foi desenvolvido um modelo do sistema solar, ao utilizar essa aplicação um usuário deverá ser capaz de:
+
+- Visualizar todos os planetas do sistema solar renderizados na tela;
+- Visualizar todas as cartas com informações sobre missões espaciais;
+
+
+## :pushpin: Instruções para visualizar o projeto:
+
+1. git clone no projeto;
+2. Iniciar o projeto utilizando o npm start;
